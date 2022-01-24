@@ -1,0 +1,21 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: #7275a9;
+}
+
+body{
+    padding: 30px;
+}
+
+#data{
+    height: 270px;
+    vertical-align: middle;
+}
+
+footer{
+    background-color: #7275a9;
+}
